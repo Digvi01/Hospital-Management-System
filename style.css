@@ -1,0 +1,282 @@
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-family: 'Ubuntu', sans-serif;
+
+
+    text-decoration: none !important;
+
+
+}
+
+hr {
+    color: black;
+}
+
+body {
+    /* background: url("img/back.jpg");
+    background-size: cover; */
+    background-color: azure;
+}
+
+nav .head1 {
+    min-width: 98vw;
+    height: 12vh;
+    background-color: rgb(237, 241, 241);
+
+}
+
+
+nav .head2 {
+    min-width: 98vw;
+    min-height: 10vh;
+    background-color: rgb(225, 228, 228);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.item {
+    list-style: none;
+}
+
+
+
+.head2 a {
+    text-decoration: none;
+    list-style: none;
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+
+}
+
+.head2 a:hover {
+    text-decoration: none;
+    list-style: none;
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+    border-bottom: 2px solid black;
+
+}
+
+
+
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.bts {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.desk img {
+    border-right: 2px dashed black;
+    padding: 15px;
+}
+
+
+.desk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(253, 149, 149);
+    width: 23vw;
+    gap: 10px;
+    min-height: 20vh;
+    border-radius: 10px;
+    border: 2px solid rgb(253, 149, 149);
+}
+
+.desk h2 a {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+
+
+.doc img {
+    border-right: 2px dashed black;
+    padding: 15px;
+}
+
+
+.doc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(120, 255, 120);
+    width: 23vw;
+    gap: 10px;
+    min-height: 20vh;
+    border-radius: 10px;
+    border: 2px solid rgb(120, 255, 120);
+}
+
+.doc h2 a {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+
+
+.cash img {
+    border-right: 2px dashed black;
+    padding: 15px;
+}
+
+
+.cash {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(176, 176, 255);
+    width:25vw;
+    gap: 10px;
+    min-height: 20vh;
+    border-radius: 10px;
+    border: 2px solid rgb(176, 176, 255);
+}
+
+.cash h2 a {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+.lab img {
+    border-right: 2px dashed black;
+    padding: 15px;
+}
+
+
+.lab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(243, 255, 71);
+   width: 23vw;
+    gap: 10px;
+    min-height: 20vh;
+    border-radius: 10px;
+    border: 2px solid rgb(243, 255, 71);
+}
+
+.lab h2 a {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+
+
+
+.line {
+    width: 85%;
+    border-bottom: 4px solid black;
+    margin-bottom: 40px;
+}
+
+.line2 {
+    width: 75%;
+    border-bottom: 3px solid black;
+    margin-bottom: 40px;
+}
+
+.line3 {
+    width: 65%;
+    border-bottom: 2px solid black;
+    margin-bottom: 40px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+}
+
+.lhs {
+    width: 30vw;
+    height: 50vh;
+    border: 2px solid black;
+    margin-left: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.rhs {
+    width: 30vw;
+    height: 50vh;
+    border: 2px solid black;
+    margin-left: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+
+.card-head {
+    display: flex;
+    height: 13vh;
+    text-decoration: none;
+}
+
+.card-head img {
+    margin: 8px;
+}
+
+.card-head h4 {
+    color: black;
+    font-weight: bolder;
+    margin-left: 15px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.card-info li {
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    margin: 10px;
+    text-decoration: underline;
+    text-decoration: none !important;
+}
+
+.map-title {
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+
+
+.hosmap {
+    display: flex;
+    justify-content: center;
+}
+
+.hosmap img {
+    margin-top: 20px;
+}

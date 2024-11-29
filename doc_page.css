@@ -1,0 +1,153 @@
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+
+
+}
+
+hr {
+    color: black;
+}
+
+body {
+    /* background: url("img/back.jpg");
+    background-size: cover; */
+    background-color: azure;
+}
+
+nav .head1 {
+    min-width: 98vw;
+    height: 10vh;
+    background-color: rgb(237, 241, 241);
+   
+    
+}
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    margin-top: 25px;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+
+nav .head2 {
+    min-width: 98vw;
+    min-height: 10vh;
+    background-color: rgb(225, 228, 228);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.user
+{
+    min-width: 20vw;
+    border-bottom: 3px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
+}
+
+/* main  */
+
+
+.main
+{
+    display: flex;
+    margin-top: 30px;
+    height: 70vh;
+   
+}
+
+.list
+{
+    min-width: 60vw;
+    height: 100vh;
+   
+   
+}
+.list h2
+{
+    width: 35vw;
+    padding-top: 4px;
+    margin-bottom: 20px;
+    height: 8vh;
+    border: 2px solid rgb(114, 255, 114);
+    border-radius: 10px;
+    background-color: rgb(136, 255, 136);
+    color: black;
+
+}
+
+.add
+{
+    min-width: 40vw;
+    height: 100vh;
+    margin-left: 80px;
+     
+}
+
+
+.add_pat
+{
+    width: 40vw;
+    height: 65vh;
+    border: 2px solid black;
+    margin-top: 20px;  
+    border-radius: 20px;
+}
+.add h3{
+    width: 40vw;
+    height: 8vh;
+    font-weight: bolder;
+    border-bottom: 4px solid rgb(117, 0, 117);
+    margin-top: 10px; 
+
+    
+}
+
+label
+{
+    font-size: large;
+    font-weight: bolder;
+    margin: 10px;
+}
+
+.mid
+{
+    display: flex;
+}
+
+
+
+.lab_list
+{
+    margin-left: 20px;
+    min-width: 35vw;
+    height: 100vh;
+   
+   
+}
+
+.lab_list h2
+{
+    width: 20vw;
+    padding-top: 4px;
+    margin-bottom: 20px;
+    height: 8vh;
+    border: 2px solid rgb(114, 255, 114);
+    border-radius: 10px;
+    background-color: rgb(136, 255, 136);
+    color: black;
+
+}
+
+
+

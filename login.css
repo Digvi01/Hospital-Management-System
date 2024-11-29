@@ -1,0 +1,48 @@
+* {
+    background-color: white;
+}
+
+
+nav .head1 {
+    min-width: 98vw;
+    min-height: 5vh;
+    background-color: rgb(237, 241, 241);
+    padding-bottom: 20px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+h1 {
+    border-bottom: 2px solid darkgreen;
+    padding: 15px;
+    font-weight: bolder;
+    font-size: xx-large;
+
+
+}
+.container
+{
+    width: 40%;
+}
+
+
+.mid {
+    display: flex;
+    justify-content: start;
+    margin-bottom: 15px;
+    gap: 50px;
+
+}
+.form-control
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
